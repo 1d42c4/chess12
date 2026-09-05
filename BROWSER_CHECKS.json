@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-09-05T14:52:59.526Z",
+  "status": "passed",
+  "checks": {
+    "repo": "chess12",
+    "search": true,
+    "lessonProgress": true,
+    "notesPersist": true,
+    "export": true,
+    "practiceAnswers": true,
+    "boardOrientation": true,
+    "skillFilters": true,
+    "mobileLayout": true,
+    "workbook": true,
+    "offline": true
+  },
+  "pageErrors": []
+}
