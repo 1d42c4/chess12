@@ -57,4 +57,4 @@ GitHub Pages serves the root of `main` with `.nojekyll`. Active branch rules req
 
 ## Credits
 
-Original course writing, interface, and generated practice positions were prepared with AI for knightway8. The bundled chess.js library is BSD-2-Clause licensed; its full notice is in [vendor/chess-LICENSE.txt](vendor/chess-LICENSE.txt). Stockfish was used for local analysis and is not redistributed here. Tablebase facts are credited to the Lichess Syzygy service.
+Original course writing, interface, and generated practice positions were prepared with AI for knightway8. Cburnett SVG chess pieces by Colin M. L. Burnett are included unmodified under GPL-2.0-or-later, with [source and attribution](assets/pieces/README.md) and the [full license](assets/pieces/COPYING.txt). The bundled chess.js library is BSD-2-Clause licensed; its full notice is in [vendor/chess-LICENSE.txt](vendor/chess-LICENSE.txt). Stockfish was used for local analysis and is not redistributed here. Tablebase facts are credited to the Lichess Syzygy service.
