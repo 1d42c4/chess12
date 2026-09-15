@@ -1,5 +1,5 @@
 [Event "Calculate with Purpose: tactic-001"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-001"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-001"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -11,7 +11,7 @@
 { Find the fastest forced mate found in the recorded analysis: mate in 1. Play its first move. Answer: d5f7. The verified line begins Qxf7#. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 11. Qxf7# *
 
 [Event "Calculate with Purpose: tactic-002"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-002"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-002"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -23,7 +23,7 @@
 { Find the fastest forced mate found in the recorded analysis: mate in 1. Play its first move. Answer: g3g7. The verified line begins Qxg7#. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 19. Qxg7# *
 
 [Event "Calculate with Purpose: tactic-003"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-003"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-003"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -35,7 +35,7 @@
 { Find the fastest forced mate found in the recorded analysis: mate in 5. Play its first move. Answer: h6e6. The verified line begins Qe6+ Kh8 Qe8+ Rg8 Qh5+ Kg7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 25. Qe6+ 25... Kh8 26. Qe8+ 26... Rg8 27. Qh5+ 27... Kg7 28. Qh7+ 28... Kf8 29. Qf7# *
 
 [Event "Calculate with Purpose: tactic-004"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-004"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-004"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -47,7 +47,7 @@
 { Find the fastest forced mate found in the recorded analysis: mate in 2. Play its first move. Answer: d1d8. The verified line begins Rd8+ Rf8 Rxf8#. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 27. Rd8+ 27... Rf8 28. Rxf8# *
 
 [Event "Calculate with Purpose: tactic-005"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-005"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-005"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -59,7 +59,7 @@
 { Find the fastest forced mate found in the recorded analysis: mate in 3. Play its first move. Answer: h4g5. The verified line begins hxg5+ Kh7 Rxh5+ Kg6 Qf6#. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 20. hxg5+ 20... Kh7 21. Rxh5+ 21... Kg6 22. Qf6# *
 
 [Event "Calculate with Purpose: tactic-006"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-006"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-006"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -71,7 +71,7 @@
 { Find the fastest forced mate found in the recorded analysis: mate in 3. Play its first move. Answer: a5e1. The verified line begins Qxe1+ Kb2 Rb8+ Ka3 Qa5#. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 20... Qxe1+ 21. Kb2 21... Rb8+ 22. Ka3 22... Qa5# *
 
 [Event "Calculate with Purpose: tactic-007"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-007"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-007"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -83,7 +83,7 @@
 { Find the fastest forced mate found in the recorded analysis: mate in 3. Play its first move. Answer: e8h5. The verified line begins Qh5+ Kg7 Qh7+ Kf8 Qf7#. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 27. Qh5+ 27... Kg7 28. Qh7+ 28... Kf8 29. Qf7# *
 
 [Event "Calculate with Purpose: tactic-008"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-008"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-008"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -95,7 +95,7 @@
 { Find the fastest forced mate found in the recorded analysis: mate in 3. Play its first move. Answer: f4h6. The verified line begins Bxh6 Rf6 Qxf6 Kh7 Qg7#. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 24. Bxh6 24... Rf6 25. Qxf6 25... Kh7 26. Qg7# *
 
 [Event "Calculate with Purpose: tactic-009"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-009"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-009"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -107,7 +107,7 @@
 { Find the fastest forced mate found in the recorded analysis: mate in 4. Play its first move. Answer: b4e7. The verified line begins Bxe7 Rf8 Qf6+ Kh7 Rxh5+ Kg8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 22. Bxe7 22... Rf8 23. Qf6+ 23... Kh7 24. Rxh5+ 24... Kg8 25. Qh8# *
 
 [Event "Calculate with Purpose: tactic-010"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-010"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-010"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -119,7 +119,7 @@
 { Find the fastest forced mate found in the recorded analysis: mate in 3. Play its first move. Answer: f4h6. The verified line begins Qxh6+ Kg8 Nf5 Bxe2 Qg7#. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 24. Qxh6+ 24... Kg8 25. Nf5 25... Bxe2 26. Qg7# *
 
 [Event "Calculate with Purpose: tactic-011"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-011"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-011"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -131,7 +131,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g2f3. The verified line begins gxf3 Bxd2 gxh7 Rh8 Rxd2 Rxh7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 28. gxf3 28... Bxd2 29. gxh7 29... Rh8 30. Rxd2 30... Rxh7 31. Ng3 31... Rh4 32. Ke1 *
 
 [Event "Calculate with Purpose: tactic-012"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-012"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-012"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -143,7 +143,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b7d5. The verified line begins Bxd5 Kd7 Bxa8 g5 Nd2 Nc6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 22. Bxd5 22... Kd7 23. Bxa8 23... g5 24. Nd2 24... Nc6 25. Bxc6+ 25... Kxc6 26. Rh1 26... h5 *
 
 [Event "Calculate with Purpose: tactic-013"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-013"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-013"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -155,7 +155,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a4b3. The verified line begins axb3 Rb2 hxg4 hxg4 Rxh1+ Nxh1. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 24... axb3 25. Rb2 25... hxg4 26. hxg4 26... Rxh1+ 27. Nxh1 27... Nb5 28. Rxb3 28... Nd4 29. Re3 *
 
 [Event "Calculate with Purpose: tactic-014"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-014"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-014"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -167,7 +167,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e3d4. The verified line begins Bxd4 e5 Be3 Bf5 Qc1 Nc6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 10. Bxd4 10... e5 11. Be3 11... Bf5 12. Qc1 12... Nc6 13. g4 13... Bxg4 14. Be2 14... Bxe2 *
 
 [Event "Calculate with Purpose: tactic-015"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-015"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-015"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -179,7 +179,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g5d8. The verified line begins Bxd8 Nxd8 cxd4 Bb6 Nc3 Bb7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 12. Bxd8 12... Nxd8 13. cxd4 13... Bb6 14. Nc3 14... Bb7 15. Nd5 15... Bxd5 16. exd5 16... Nf7 *
 
 [Event "Calculate with Purpose: tactic-016"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-016"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-016"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -191,7 +191,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c4d5. The verified line begins cxd5 Nb4+ Kxc3 Bg4 Be2 Rxf4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 19. cxd5 19... Nb4+ 20. Kxc3 20... Bg4 21. Be2 21... Rxf4 22. Kb2 22... a5 23. Rxh2 23... Rf2 *
 
 [Event "Calculate with Purpose: tactic-017"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-017"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-017"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -203,7 +203,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a8a7. The verified line begins Rxa7 e5 Qxa2 Bc5 Ra8 e6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 17... Rxa7 18. e5 18... Qxa2 19. Bc5 19... Ra8 20. e6 20... dxe6 21. Nd4 21... Ne5 22. f3 *
 
 [Event "Calculate with Purpose: tactic-018"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-018"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-018"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -215,7 +215,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g2f3. The verified line begins gxf3 Nd7 Bh3 O-O-O O-O-O Kc7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 16. gxf3 16... Nd7 17. Bh3 17... O-O-O 18. O-O-O 18... Kc7 19. Bxd7 19... Rxd7 20. Rxd7+ 20... Kxd7 *
 
 [Event "Calculate with Purpose: tactic-019"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-019"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-019"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -227,7 +227,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e8f7. The verified line begins Kxf7 Qe3 Kg8 O-O e6 Qb3. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 9... Kxf7 10. Qe3 10... Kg8 11. O-O 11... e6 12. Qb3 12... a5 13. Nh4 13... a4 14. Qc4 *
 
 [Event "Calculate with Purpose: tactic-020"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-020"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-020"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -239,7 +239,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d7a4. The verified line begins Bxa4 Rxd5 Qc8+ Rc5 Qe6 b3. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 14... Bxa4 15. Rxd5 15... Qc8+ 16. Rc5 16... Qe6 17. b3 17... Na6 18. Rd5 18... Rac8+ 19. Kb1 *
 
 [Event "Calculate with Purpose: tactic-021"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-021"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-021"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -251,7 +251,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b8c6. The verified line begins Nxc6 hxg5 Na5 c5 h6 g6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 18... Nxc6 19. hxg5 19... Na5 20. c5 20... h6 21. g6 21... fxg6 22. Nf3 22... g5 23. e4 *
 
 [Event "Calculate with Purpose: tactic-022"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-022"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-022"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -263,7 +263,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e7d6. The verified line begins exd6 Kxg3 Rxd4 Bxh7 dxe5 Be4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 26... exd6 27. Kxg3 27... Rxd4 28. Bxh7 28... dxe5 29. Be4 29... f6 30. Bg6+ 30... Ke7 31. h4 *
 
 [Event "Calculate with Purpose: tactic-023"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-023"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-023"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -275,7 +275,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b6a8. The verified line begins Nxa8 Kd8 d6 cxd6 c4 d5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 19. Nxa8 19... Kd8 20. d6 20... cxd6 21. c4 21... d5 22. Ba5+ 22... Ke7 23. Nb6 23... d4 *
 
 [Event "Calculate with Purpose: tactic-024"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-024"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-024"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -287,7 +287,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g2f3. The verified line begins gxf3 Nd7 Rd1 Bxe3+ fxe3 Nb6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 17. gxf3 17... Nd7 18. Rd1 18... Bxe3+ 19. fxe3 19... Nb6 20. Nc3 20... Rd8+ 21. Kc2 21... Rxd1 *
 
 [Event "Calculate with Purpose: tactic-025"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-025"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-025"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -299,7 +299,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g3h4. The verified line begins gxh4 axb4 Bg2 g5 hxg5 e4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 13. gxh4 13... axb4 14. Bg2 14... g5 15. hxg5 15... e4 16. gxh6 16... Be5 17. axb4 17... Nf6 *
 
 [Event "Calculate with Purpose: tactic-026"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-026"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-026"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -311,7 +311,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a5g5. The verified line begins Qxg5 Nc3 e6 Rd1 Qc5 Nd5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 10... Qxg5 11. Nc3 11... e6 12. Rd1 12... Qc5 13. Nd5 13... exd5 14. exd5+ 14... Kd8 15. b4 *
 
 [Event "Calculate with Purpose: tactic-027"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-027"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-027"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -323,7 +323,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b6a8. The verified line begins Nxa8 Nxa8 Nd5 Nc7 Nxf6+ Qxf6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 15. Nxa8 15... Nxa8 16. Nd5 16... Nc7 17. Nxf6+ 17... Qxf6 18. e3 18... Ne6 19. Bd3 19... Kh8 *
 
 [Event "Calculate with Purpose: tactic-028"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-028"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-028"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -335,7 +335,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d2b4. The verified line begins Bxb4+ Qe7 Bxe7+ Kxe7 Qg5+ Kf8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 16. Bxb4+ 16... Qe7 17. Bxe7+ 17... Kxe7 18. Qg5+ 18... Kf8 19. Qd8+ 19... Kg7 20. Qf6+ 20... Kh6 *
 
 [Event "Calculate with Purpose: tactic-029"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-029"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-029"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -347,7 +347,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b6d4. The verified line begins Qxd4 O-O e6 Rd1 Qc5 Be3. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 9... Qxd4 10. O-O 10... e6 11. Rd1 11... Qc5 12. Be3 12... Qc7 13. Bd4 13... f6 14. Rd3 *
 
 [Event "Calculate with Purpose: tactic-030"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-030"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-030"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -359,7 +359,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a7b6. The verified line begins axb6 cxd5 e4 Rd1 Bxc3+ Qxc3. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 14... axb6 15. cxd5 15... e4 16. Rd1 16... Bxc3+ 17. Qxc3 17... Ne8 18. Qg3+ 18... Kh7 19. d6 *
 
 [Event "Calculate with Purpose: tactic-031"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-031"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-031"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -371,7 +371,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g7h6. The verified line begins gxh6 e5 Nfd7 f4 c5 f5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 5... gxh6 6. e5 6... Nfd7 7. f4 7... c5 8. f5 8... Qh4+ 9. g3 9... Qxd4 10. Qxd4 *
 
 [Event "Calculate with Purpose: tactic-032"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-032"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-032"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -383,7 +383,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g7f7. The verified line begins Rxf7 e6 Re7 exd7 Nxd7 Re1. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 20... Rxf7 21. e6 21... Re7 22. exd7 22... Nxd7 23. Re1 23... c5 24. g5 24... h5 25. Ng3 *
 
 [Event "Calculate with Purpose: tactic-033"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-033"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-033"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -395,7 +395,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: f3c6. The verified line begins Qxc6 Nxf6 Qxa8+ Kc7 Qa7+ Kd8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 16. Qxc6 16... Nxf6 17. Qxa8+ 17... Kc7 18. Qa7+ 18... Kd8 19. Qxa6 19... gxf5 20. Qa8+ 20... Kd7 *
 
 [Event "Calculate with Purpose: tactic-034"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-034"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-034"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -407,7 +407,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: f5e4. The verified line begins Bxe4 Ng5 Bf5 Bb3 h6 Nf7+. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 10... Bxe4 11. Ng5 11... Bf5 12. Bb3 12... h6 13. Nf7+ 13... Ke8 14. Nxh8 14... e6 15. Bf4 *
 
 [Event "Calculate with Purpose: tactic-035"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-035"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-035"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -419,7 +419,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e4f5. The verified line begins exf5 Qxf5 d3 O-O-O Bd2 Qg6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 9. exf5 9... Qxf5 10. d3 10... O-O-O 11. Bd2 11... Qg6 12. Qf3 12... f5 13. O-O-O 13... b4 *
 
 [Event "Calculate with Purpose: tactic-036"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-036"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-036"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -431,7 +431,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g3h4. The verified line begins Qxh4 Rd8 Qh5+ Qf7 Qxf7+ Kxf7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 20. Qxh4 20... Rd8 21. Qh5+ 21... Qf7 22. Qxf7+ 22... Kxf7 23. Nxe5+ 23... Ke8 24. Nxc6 24... Rxd3 *
 
 [Event "Calculate with Purpose: tactic-037"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-037"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-037"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -443,7 +443,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b8a6. The verified line begins Nxa6 Nc3 Qxf3+ Kc1 O-O-O Nd5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 15... Nxa6 16. Nc3 16... Qxf3+ 17. Kc1 17... O-O-O 18. Nd5 18... Qf7 19. a4 19... Nc7 20. Nxc7 *
 
 [Event "Calculate with Purpose: tactic-038"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-038"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-038"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -455,7 +455,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d1d5. The verified line begins Qd5 Bd7 Qxa8 Nxf2 Rf1 Ng4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 7. Qd5 7... Bd7 8. Qxa8 8... Nxf2 9. Rf1 9... Ng4 10. Qf3 10... Ne5 11. Qg3 11... Nbc6 *
 
 [Event "Calculate with Purpose: tactic-039"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-039"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-039"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -467,7 +467,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: f3e5. The verified line begins Nxe5 d5 cxd4 Bd6 exd5 Nf6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 10. Nxe5 10... d5 11. cxd4 11... Bd6 12. exd5 12... Nf6 13. Qe2 13... Kf8 14. a4 14... bxa4 *
 
 [Event "Calculate with Purpose: tactic-040"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-040"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-040"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -479,7 +479,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d1f3. The verified line begins Qxf3 Nxd4 Qc3 axb6 Bxh6 Nxh6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 14. Qxf3 14... Nxd4 15. Qc3 15... axb6 16. Bxh6 16... Nxh6 17. Qxc7+ 17... Bd7 18. Qb7 18... Rc8 *
 
 [Event "Calculate with Purpose: tactic-041"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-041"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-041"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -491,7 +491,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b1b4. The verified line begins Rxb4 Rh8 Rb1 h4 Qf4 b5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 12. Rxb4 12... Rh8 13. Rb1 13... h4 14. Qf4 14... b5 15. g3 15... b4 16. Rxb4 *
 
 [Event "Calculate with Purpose: tactic-042"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-042"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-042"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -503,7 +503,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c5e3. The verified line begins Bxe3 Nxc3 Kxd8 fxe3 Ngh6 Nh4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 14... Bxe3 15. Nxc3 15... Kxd8 16. fxe3 16... Ngh6 17. Nh4 17... Ne5 18. Rf6 18... Rg8 19. Nd5 *
 
 [Event "Calculate with Purpose: tactic-043"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-043"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-043"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -515,7 +515,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b2c3. The verified line begins bxc3 exd6 Bxh6 Ke7 Bb3 Rc8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 11. bxc3 11... exd6 12. Bxh6 12... Ke7 13. Bb3 13... Rc8 14. Bf4 14... a5 15. O-O-O 15... Ra6 *
 
 [Event "Calculate with Purpose: tactic-044"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-044"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-044"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -527,7 +527,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c6b5. The verified line begins cxb5 d4 exd4 Bxg5 Qg7 Qd3. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 12... cxb5 13. d4 13... exd4 14. Bxg5 14... Qg7 15. Qd3 15... Nd6 16. Ra1 16... Nc6 17. a4 *
 
 [Event "Calculate with Purpose: tactic-045"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-045"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-045"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -539,7 +539,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a6b5. The verified line begins axb5 Nxb5 d6 d4 Be7 dxe5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 4... axb5 5. Nxb5 5... d6 6. d4 6... Be7 7. dxe5 7... dxe5 8. O-O 8... Bd7 9. Qe2 *
 
 [Event "Calculate with Purpose: tactic-046"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-046"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-046"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -551,7 +551,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c1c7. The verified line begins Qxc7 gxh3+ Kf1 Rxd4 Qxc8+ Kf7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 26. Qxc7 26... gxh3+ 27. Kf1 27... Rxd4 28. Qxc8+ 28... Kf7 29. Qxg8+ 29... Kxg8 30. Nc4 30... Rxc4 *
 
 [Event "Calculate with Purpose: tactic-047"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-047"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-047"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -563,7 +563,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e4f2. The verified line begins Nxf2 Qh5 O-O d4 Bxd4 Ne2. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 6... Nxf2 7. Qh5 7... O-O 8. d4 8... Bxd4 9. Ne2 9... Bc5 10. Bg5 10... f6 11. Be3 *
 
 [Event "Calculate with Purpose: tactic-048"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-048"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-048"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -575,7 +575,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e3c5. The verified line begins Bxc5 Nb3+ Qxb3 cxb3 Bxf8 Rxf8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 22. Bxc5 22... Nb3+ 23. Qxb3 23... cxb3 24. Bxf8 24... Rxf8 25. Nf3 25... Kg8 26. Kd2 26... f6 *
 
 [Event "Calculate with Purpose: tactic-049"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-049"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-049"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -587,7 +587,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g3h4. The verified line begins Qxh4 Bc5+ Be3 Bxe3+ Nxe3 Ne7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 19. Qxh4 19... Bc5+ 20. Be3 20... Bxe3+ 21. Nxe3 21... Ne7 22. Rae1 22... Ng6 23. Qg3 23... Nf4 *
 
 [Event "Calculate with Purpose: tactic-050"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-050"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-050"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -599,7 +599,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c4d5. The verified line begins cxd5 f6 Bf4 c6 d6 exd6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 10. cxd5 10... f6 11. Bf4 11... c6 12. d6 12... exd6 13. e3 13... d5 14. Bd3 14... Kf7 *
 
 [Event "Calculate with Purpose: tactic-051"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-051"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-051"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -611,7 +611,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c4d5. The verified line begins cxd5 cxd5 a3 Nc6 Ne5 f6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 11. cxd5 11... cxd5 12. a3 12... Nc6 13. Ne5 13... f6 14. Nxc6 14... dxc6 15. Bh4 15... e6 *
 
 [Event "Calculate with Purpose: tactic-052"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-052"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-052"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -623,7 +623,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b5c4. The verified line begins bxc4 Nb6 Bf5 Bf4 Kf7 Nxc4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 22... bxc4 23. Nb6 23... Bf5 24. Bf4 24... Kf7 25. Nxc4 25... Kg6 26. Ne3 26... Qd8 27. h3 *
 
 [Event "Calculate with Purpose: tactic-053"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-053"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-053"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -635,7 +635,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g4h5. The verified line begins gxh5 Nxf1 Kxf1 Rf8 Nc7+ Kd7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 28. gxh5 28... Nxf1 29. Kxf1 29... Rf8 30. Nc7+ 30... Kd7 31. Nd5 31... Bh3+ 32. Ke2 32... Bg4+ *
 
 [Event "Calculate with Purpose: tactic-054"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-054"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-054"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -647,7 +647,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g5e4. The verified line begins Ne4 a3 h5 Nc3 Nf6 Bb5+. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 6... Ne4 7. a3 7... h5 8. Nc3 8... Nf6 9. Bb5+ 9... c6 *
 
 [Event "Calculate with Purpose: tactic-055"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-055"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-055"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -659,7 +659,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a4a3. The verified line begins Qxa3 dxc4 Qc5 Na6 Qxc4 O-O. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 6. Qxa3 6... dxc4 7. Qc5 7... Na6 8. Qxc4 8... O-O 9. a3 9... Rc8 10. Ne5 *
 
 [Event "Calculate with Purpose: tactic-056"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-056"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-056"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -671,7 +671,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d5e7. The verified line begins Ne7+ Kh8 Nxc8 f4 gxf4 exf4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 12. Ne7+ 12... Kh8 13. Nxc8 13... f4 14. gxf4 14... exf4 15. Bd4 15... Bxc8 16. Bxg7+ 16... Kxg7 *
 
 [Event "Calculate with Purpose: tactic-057"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-057"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-057"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -683,7 +683,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b4c5. The verified line begins bxc5 Bxc5 Red1 Rg6 Kc2 Rh6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 22. bxc5 22... Bxc5 23. Red1 23... Rg6 24. Kc2 24... Rh6 25. Bd7+ 25... Ke7 26. Bc6 26... Rd8 *
 
 [Event "Calculate with Purpose: tactic-058"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-058"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-058"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -695,7 +695,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a6b5. The verified line begins axb5 Nxb5 Nf6 N1c3 h6 Bxf6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 7... axb5 8. Nxb5 8... Nf6 9. N1c3 9... h6 10. Bxf6 10... gxf6 11. Nd5 11... Na6 12. Qd4 *
 
 [Event "Calculate with Purpose: tactic-059"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-059"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-059"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -707,7 +707,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c3b4. The verified line begins cxb4 Qf4 Bf2 Rd6 Qc1 Rxd2. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 23. cxb4 23... Qf4 24. Bf2 24... Rd6 25. Qc1 25... Rxd2 26. Qxc8+ 26... Kf7 27. Qxb7+ 27... Kf6 *
 
 [Event "Calculate with Purpose: tactic-060"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-060"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-060"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -719,7 +719,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b4c5. The verified line begins bxc5 Ke8 d4 exd4 O-O Nge7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 5. bxc5 5... Ke8 6. d4 6... exd4 7. O-O 7... Nge7 8. e5 8... Na5 9. Qxd4 9... Nec6 *
 
 [Event "Calculate with Purpose: tactic-061"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-061"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-061"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -731,7 +731,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d5b7. The verified line begins Qxb7 f5 Qxa8 O-O Qxa7 Bf6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 14. Qxb7 14... f5 15. Qxa8 15... O-O 16. Qxa7 16... Bf6 17. Nc3 17... f4 18. Qxb6 18... Bh4 *
 
 [Event "Calculate with Purpose: tactic-062"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-062"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-062"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -743,7 +743,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e3d2. The verified line begins exd2 Bxd2 Rxg8 d5 Nd4 Qh5+. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 11... exd2 12. Bxd2 12... Rxg8 13. d5 13... Nd4 14. Qh5+ 14... Kf8 15. f4 15... e4 16. Ra4 *
 
 [Event "Calculate with Purpose: tactic-063"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-063"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-063"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -755,7 +755,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g2d2. The verified line begins Rxd2 Nxd2 b5 Bb3 a4 Ke2. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 17... Rxd2 18. Nxd2 18... b5 19. Bb3 19... a4 20. Ke2 20... exf5 21. c4 21... dxc4 22. Bc2 *
 
 [Event "Calculate with Purpose: tactic-064"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-064"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-064"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -767,7 +767,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d2b4. The verified line begins Bxb4+ c5 Nxc5 Kg7 Be2 a5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 15. Bxb4+ 15... c5 16. Nxc5 16... Kg7 17. Be2 17... a5 18. Bd2 18... Rh8 19. Qf4 19... Kg8 *
 
 [Event "Calculate with Purpose: tactic-065"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-065"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-065"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -779,7 +779,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g5e4. The verified line begins Ne4 f3 Ng3 Rh3 Nf5 h5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 7... Ne4 8. f3 8... Ng3 9. Rh3 9... Nf5 10. h5 *
 
 [Event "Calculate with Purpose: tactic-066"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-066"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-066"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -791,7 +791,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c3f3. The verified line begins Qxf3+ Kd2 Qf2+ Be2 Qxg1 c3. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 17... Qxf3+ 18. Kd2 18... Qf2+ 19. Be2 19... Qxg1 20. c3 20... e3+ 21. Kc2 21... Qxh2 22. Kc1 *
 
 [Event "Calculate with Purpose: tactic-067"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-067"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-067"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -803,7 +803,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b5c4. The verified line begins bxc4 Bd2 Ngf6 O-O-O Nd5 Nxe6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 10... bxc4 11. Bd2 11... Ngf6 12. O-O-O 12... Nd5 13. Nxe6 13... fxe6 14. Qh5+ 14... Kd8 15. Ne5 *
 
 [Event "Calculate with Purpose: tactic-068"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-068"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-068"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -815,7 +815,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e4d6. The verified line begins Nd6 Qxd6 exd6 Rg6 Qxg6 Nf8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 23. Nd6 23... Qxd6 24. exd6 24... Rg6 25. Qxg6 25... Nf8 26. Qf7 26... Ng6 27. Qxg6 27... Bf5 *
 
 [Event "Calculate with Purpose: tactic-069"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-069"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-069"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -827,7 +827,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g2f3. The verified line begins gxf3 gxf3 Nxb6 Rg8+ Kh1 Rg2. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 22. gxf3 22... gxf3 23. Nxb6 23... Rg8+ 24. Kh1 24... Rg2 25. Rg1 25... Kc7 26. h3 26... d5 *
 
 [Event "Calculate with Purpose: tactic-070"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-070"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-070"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -839,7 +839,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e3g1. The verified line begins Qxg1+ Ke2 Nxa6 Nd2 Qxh2+ Ke3. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 19... Qxg1+ 20. Ke2 20... Nxa6 21. Nd2 21... Qxh2+ 22. Ke3 22... Qg3+ 23. Kxe4 23... d5+ 24. Kxd5 *
 
 [Event "Calculate with Purpose: tactic-071"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-071"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-071"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -851,7 +851,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d5e4. The verified line begins dxe4 d4 Bxf1 Kxf1 Re8 Be3. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 17... dxe4 18. d4 18... Bxf1 19. Kxf1 19... Re8 20. Be3 20... Nb3 21. Ra2 21... Qd5 22. Nd2 *
 
 [Event "Calculate with Purpose: tactic-072"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-072"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-072"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -863,7 +863,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a6b4. The verified line begins Nb4+ Ke2 Qxf4 Rf3 Nxf3 Kf2. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 18... Nb4+ 19. Ke2 19... Qxf4 20. Rf3 20... Nxf3 21. Kf2 21... Ne1+ 22. Qf3 22... Nxf3 23. Be2 *
 
 [Event "Calculate with Purpose: tactic-073"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-073"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-073"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -875,7 +875,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c5d4. The verified line begins cxd4 Qxd4 Be6 Nb5 O-O Qxd6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 10... cxd4 11. Qxd4 11... Be6 12. Nb5 12... O-O 13. Qxd6 13... Nc6 14. Qxd8 14... Raxd8 15. Nc7 *
 
 [Event "Calculate with Purpose: tactic-074"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-074"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-074"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -887,7 +887,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: f4d5. The verified line begins Nd5 Qc1 Nxc3 bxc3 Qxa2 Nd2. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 15... Nd5 16. Qc1 16... Nxc3 17. bxc3 17... Qxa2 18. Nd2 18... Qa1 19. Qd1 19... Qxd1+ 20. Kxd1 *
 
 [Event "Calculate with Purpose: tactic-075"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-075"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-075"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -899,7 +899,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a8c7. The verified line begins Nxc7 Qxc7 Qxc3 Ba4 Rd2 Qb6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 17. Nxc7 17... Qxc7 18. Qxc3 18... Ba4 19. Rd2 19... Qb6 20. c5 20... Qe6 21. e3 21... e4 *
 
 [Event "Calculate with Purpose: tactic-076"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-076"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-076"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -911,7 +911,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c4c3. The verified line begins Qxc3+ Bd2 Qxd4 Bg5+ Rf6 Qxd4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 12... Qxc3+ 13. Bd2 13... Qxd4 14. Bg5+ 14... Rf6 15. Qxd4 15... exd4 16. f4 16... axb6 17. e5 *
 
 [Event "Calculate with Purpose: tactic-077"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-077"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-077"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -923,7 +923,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d3f5. The verified line begins Qf5+ Kd8 Qxf6+ Kc8 Nxb6+ Kc7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 17. Qf5+ 17... Kd8 18. Qxf6+ 18... Kc8 19. Nxb6+ 19... Kc7 20. Nd5+ 20... Kc8 21. Qxh8 21... Nd8 *
 
 [Event "Calculate with Purpose: tactic-078"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-078"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-078"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -935,7 +935,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: h1g1. The verified line begins Rxg1 Nd7 Nxd5 exd5 Qe2+ Kd8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 15. Rxg1 15... Nd7 16. Nxd5 16... exd5 17. Qe2+ 17... Kd8 18. Rg8 18... Kc7 19. Qg2 19... Nxf6 *
 
 [Event "Calculate with Purpose: tactic-079"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-079"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-079"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -947,7 +947,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d4d3. The verified line begins Qd3 Qc1 Qd6 a3 Ba5 Qc2. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 10... Qd3 11. Qc1 11... Qd6 12. a3 12... Ba5 13. Qc2 13... Nf6 14. Ng3 14... b5 15. Ne4 *
 
 [Event "Calculate with Purpose: tactic-080"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-080"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-080"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -959,7 +959,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e7e8. The verified line begins Qe8+ Kg7 Nd6 f5 exf6+ Kxf6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 19. Qe8+ 19... Kg7 20. Nd6 20... f5 21. exf6+ 21... Kxf6 22. Qxg6+ 22... Ke7 23. Re1+ 23... Kd8 *
 
 [Event "Calculate with Purpose: tactic-081"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-081"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-081"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -971,7 +971,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c3d2. The verified line begins Bxd2+ Kd1 Bg4+ Ne2 Bxe3 fxe3. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 19... Bxd2+ 20. Kd1 20... Bg4+ 21. Ne2 21... Bxe3 22. fxe3 22... dxe2+ 23. Bxe2 23... Bxe2+ 24. Kxe2 *
 
 [Event "Calculate with Purpose: tactic-082"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-082"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-082"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -983,7 +983,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: f5g4. The verified line begins Bxg4 h3 Nb3 d4 Nxa1 hxg4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 15... Bxg4 16. h3 16... Nb3 17. d4 17... Nxa1 18. hxg4 18... Re8 19. Nd2 19... f6 20. Nxf3 *
 
 [Event "Calculate with Purpose: tactic-083"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-083"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-083"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -995,7 +995,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: h4g4. The verified line begins Qxg4 Bc5+ Be3 Bxe3+ Nxe3 Kf7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 23. Qxg4 23... Bc5+ 24. Be3 24... Bxe3+ 25. Nxe3 25... Kf7 26. Qe2 26... Nh6 27. g4 27... Rd7 *
 
 [Event "Calculate with Purpose: tactic-084"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-084"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-084"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1007,7 +1007,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c7b6. The verified line begins cxb6 d6 Rxa2 Rxa2 Qxa2 Bc1. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 18... cxb6 19. d6 19... Rxa2 20. Rxa2 20... Qxa2 21. Bc1 21... Qa1 22. Kd2 22... Qa5 23. Kd1 *
 
 [Event "Calculate with Purpose: tactic-085"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-085"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-085"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1019,7 +1019,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: h6g5. The verified line begins hxg5 cxd5 Qxd5 h4 g4 Nc7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 11... hxg5 12. cxd5 12... Qxd5 13. h4 13... g4 14. Nc7 14... Qa5+ 15. Qd2 15... Qxd2+ 16. Kxd2 *
 
 [Event "Calculate with Purpose: tactic-086"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-086"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-086"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1031,7 +1031,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a8c8. The verified line begins Qxc8+ Ke7 Qxc5+ d6 Nc6+ Ke8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 24. Qxc8+ 24... Ke7 25. Qxc5+ 25... d6 26. Nc6+ 26... Ke8 27. Qxd6 27... Rh7 28. Qxg6+ 28... Rf7 *
 
 [Event "Calculate with Purpose: tactic-087"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-087"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-087"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1043,7 +1043,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e5f4. The verified line begins exf4 Bg2 cxd5 Qxf4 Qa5+ Nd2. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 9... exf4 10. Bg2 10... cxd5 11. Qxf4 11... Qa5+ 12. Nd2 12... Bb4 13. Rc1 13... Nc6 14. a3 *
 
 [Event "Calculate with Purpose: tactic-088"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-088"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-088"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1055,7 +1055,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b7d5. The verified line begins Qxd5 Be3 Qb3 Nc3 Qxb2 Rc1. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 14... Qxd5 15. Be3 15... Qb3 16. Nc3 16... Qxb2 17. Rc1 17... O-O 18. Be2 18... Nd7 19. Nd5 *
 
 [Event "Calculate with Purpose: tactic-089"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-089"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-089"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1067,7 +1067,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c5d4. The verified line begins Bxd4 Bg5 Qxg5 Nf3 Qd8 Nxd4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 8... Bxd4 9. Bg5 9... Qxg5 10. Nf3 10... Qd8 11. Nxd4 11... exd4 12. Qxf2 12... O-O 13. O-O *
 
 [Event "Calculate with Purpose: tactic-090"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-090"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-090"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1079,7 +1079,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: f5f6. The verified line begins Qxf6+ Kc8 Nxb6+ Kc7 Nd5+ Kb8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 18. Qxf6+ 18... Kc8 19. Nxb6+ 19... Kc7 20. Nd5+ 20... Kb8 21. Qxh8 21... Na7 22. Qxf8+ 22... Nc8 *
 
 [Event "Calculate with Purpose: tactic-091"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-091"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-091"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1091,7 +1091,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d1d5. The verified line begins Qd5 Bxe2 Qxe4 Bxg4 Qxa8 h5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 9. Qd5 9... Bxe2 10. Qxe4 10... Bxg4 11. Qxa8 11... h5 12. Nc3 12... g6 13. Qxa7 13... Bg7 *
 
 [Event "Calculate with Purpose: tactic-092"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-092"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-092"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1103,7 +1103,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a8c7. The verified line begins Nxc7+ Kd8 Ne6+ Bxe6 dxe6 d5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 20. Nxc7+ 20... Kd8 21. Ne6+ 21... Bxe6 22. dxe6 22... d5 23. e7+ 23... Kxe7 24. Be2 24... Qe6 *
 
 [Event "Calculate with Purpose: tactic-093"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-093"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-093"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1115,7 +1115,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e5e4. The verified line begins e4 Ne1. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 11... e4 12. Ne1 *
 
 [Event "Calculate with Purpose: tactic-094"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-094"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-094"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1127,7 +1127,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: c6c3. The verified line begins Qc3+ Ke2 Qxc2+ Bd2 Bh6 Rd1. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 17... Qc3+ 18. Ke2 18... Qxc2+ 19. Bd2 19... Bh6 20. Rd1 20... Nxf6 21. Ke1 21... Bxd2+ 22. Rxd2 *
 
 [Event "Calculate with Purpose: tactic-095"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-095"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-095"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1139,7 +1139,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e8f7. The verified line begins Kxf7 Qxf4 Qc4+ Kg1 Qxe4 Qxe4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 12... Kxf7 13. Qxf4 13... Qc4+ 14. Kg1 14... Qxe4 15. Qxe4 15... Nxe4 16. Re1 16... Nd6 17. Re3 *
 
 [Event "Calculate with Purpose: tactic-096"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-096"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-096"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1151,7 +1151,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g8d8. The verified line begins Rxd8 h4 Nxe5 hxg5+ Kg7 Ne8+. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 27... Rxd8 28. h4 28... Nxe5 29. hxg5+ 29... Kg7 30. Ne8+ 30... Rxe8 31. Re1 31... Nxd3 32. Rxe8 *
 
 [Event "Calculate with Purpose: tactic-097"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-097"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-097"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1163,7 +1163,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g5d8. The verified line begins Bxd8 Bxe2 Kxe2 Kxd8 Kf1 Be7. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 11. Bxd8 11... Bxe2 12. Kxe2 12... Kxd8 13. Kf1 13... Be7 14. Nc3 14... Nxb3 15. axb3 15... Nd7 *
 
 [Event "Calculate with Purpose: tactic-098"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-098"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-098"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1175,7 +1175,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e8g8. The verified line begins O-O b4 Bd4 Nf3 Bxa1 Qxf2. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 7... O-O 8. b4 8... Bd4 9. Nf3 9... Bxa1 10. Qxf2 10... c6 11. Ne3 11... Nd7 12. O-O *
 
 [Event "Calculate with Purpose: tactic-099"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-099"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-099"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1187,7 +1187,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b5c4. The verified line begins bxc4 Be3 Nxe3 fxe3 Be6 O-O-O. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 23... bxc4 24. Be3 24... Nxe3 25. fxe3 25... Be6 26. O-O-O 26... Ke7 27. Nb6 27... Qd8 28. Rd4 *
 
 [Event "Calculate with Purpose: tactic-100"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-100"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-100"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1199,7 +1199,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b7c6. The verified line begins bxc6 dxe5 Bxe5 Ra4 O-O Ne3. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 16... bxc6 17. dxe5 17... Bxe5 18. Ra4 18... O-O 19. Ne3 19... Rb5 *
 
 [Event "Calculate with Purpose: tactic-101"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-101"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-101"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1211,7 +1211,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a8a1. The verified line begins Rxa1 Ke2 hxg4 fxg4 e4 Re1. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 26... Rxa1 27. Ke2 27... hxg4 28. fxg4 28... e4 29. Re1 29... Nc4 30. Nxe4 30... Re8 31. Kd3 *
 
 [Event "Calculate with Purpose: tactic-102"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-102"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-102"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1223,7 +1223,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: f8h6. The verified line begins Bh6 Rd1 Nxf6 Ke1 Bxd2+ Rxd2. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 19... Bh6 20. Rd1 20... Nxf6 21. Ke1 21... Bxd2+ 22. Rxd2 22... Qb1+ 23. Rd1 23... Qxf5 24. Be2 *
 
 [Event "Calculate with Purpose: tactic-103"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-103"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-103"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1235,7 +1235,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g3e5. The verified line begins Qxe5+ Kh7 Nf6+ Kh8 Nxe8+ f6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 17. Qxe5+ 17... Kh7 18. Nf6+ 18... Kh8 19. Nxe8+ 19... f6 20. Qxf6+ 20... Kh7 21. Ng5+ 21... Kh6 *
 
 [Event "Calculate with Purpose: tactic-104"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-104"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-104"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1247,7 +1247,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g5h6. The verified line begins Bxh6 Qb8 Qxb8+ Rxb8 Nd6+ Kd8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 22. Bxh6 22... Qb8 23. Qxb8+ 23... Rxb8 24. Nd6+ 24... Kd8 25. Nxf7+ 25... Kc7 26. Nxh8 26... Rxh8 *
 
 [Event "Calculate with Purpose: tactic-105"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-105"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-105"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1259,7 +1259,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e5f6. The verified line begins exf6 gxf6 Be3 Nc6 Nge2 e5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 5. exf6 5... gxf6 6. Be3 6... Nc6 7. Nge2 7... e5 8. dxe5 8... Be6 9. exf6 9... Qxf6 *
 
 [Event "Calculate with Purpose: tactic-106"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-106"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-106"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1271,7 +1271,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d7f8. The verified line begins Nxf8 Bf5 Qxf5 Rxf8 Bg2 Re8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 19. Nxf8 19... Bf5 20. Qxf5 20... Rxf8 21. Bg2 21... Re8 22. d6 22... Qf6 23. Qxf6 23... gxf6 *
 
 [Event "Calculate with Purpose: tactic-107"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-107"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-107"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1283,7 +1283,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e5f6. The verified line begins exf6 gxf6 a3 Bf8 Nge2 c6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 6. exf6 6... gxf6 7. a3 7... Bf8 8. Nge2 8... c6 9. g3 9... e5 10. Qe3 *
 
 [Event "Calculate with Purpose: tactic-108"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-108"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-108"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1295,7 +1295,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d4e5. The verified line begins dxe5 Ng8 Bf4 Na6 Qd2 h6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 5. dxe5 5... Ng8 6. Bf4 6... Na6 7. Qd2 7... h6 8. O-O-O 8... Ne7 9. h4 9... b6 *
 
 [Event "Calculate with Purpose: tactic-109"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-109"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-109"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1307,7 +1307,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g4f3. The verified line begins gxf3+ Qg2 fxg2 Rh2 Rxd4 Nf3. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 26... gxf3+ 27. Qg2 27... fxg2 28. Rh2 28... Rxd4 29. Nf3 29... Re4 30. Rxg2 30... Rxg2+ 31. Kxg2 *
 
 [Event "Calculate with Purpose: tactic-110"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-110"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-110"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1319,7 +1319,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: a7a8. The verified line begins Qxa8 Ne7 Bxc5 Qxa2 Rc1 Qe6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 18. Qxa8 18... Ne7 19. Bxc5 19... Qxa2 20. Rc1 20... Qe6 21. Bd4 21... Rf8 22. Rxc8+ 22... Nxc8 *
 
 [Event "Calculate with Purpose: tactic-111"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-111"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-111"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1331,7 +1331,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d1d4. The verified line begins Qd4+ Kg8 Bc4+ Be6 Rxe6 Na2+. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 22. Qd4+ 22... Kg8 23. Bc4+ 23... Be6 24. Rxe6 24... Na2+ 25. Kb1 25... c2+ 26. Kxa2 26... c1=N+ *
 
 [Event "Calculate with Purpose: tactic-112"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-112"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-112"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1343,7 +1343,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e2f3. The verified line begins Qxf3 Rg8 Bd4 Bd7 Qe3 O-O-O. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 18. Qxf3 18... Rg8 19. Bd4 19... Bd7 20. Qe3 20... O-O-O 21. Nd2 21... g4 22. Nc4 22... Bb5 *
 
 [Event "Calculate with Purpose: tactic-113"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-113"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-113"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1355,7 +1355,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: b1c3. The verified line begins Nc3 Qxf1+ Kxf1 Rb8 Qc5 b4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 17. Nc3 17... Qxf1+ 18. Kxf1 18... Rb8 19. Qc5 19... b4 20. Bxb4 20... d6 21. Qxc7 21... Rxb4 *
 
 [Event "Calculate with Purpose: tactic-114"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-114"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-114"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1367,7 +1367,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: f2e3. The verified line begins fxe3 Rxg8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 11. fxe3 11... Rxg8 *
 
 [Event "Calculate with Purpose: tactic-115"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-115"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-115"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1379,7 +1379,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: d4e5. The verified line begins Qxe5 Nxe5 Bg2 Bd7 Nf4 Bc6. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 17. Qxe5 17... Nxe5 18. Bg2 18... Bd7 19. Nf4 19... Bc6 20. Rdg1 20... Rfd8 21. Nd2 21... Rd7 *
 
 [Event "Calculate with Purpose: tactic-116"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-116"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-116"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1391,7 +1391,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g8h8. The verified line begins Rxh8 Bd1 Nd7 Ne2 Ne5 h4. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 18... Rxh8 19. Bd1 19... Nd7 20. Ne2 20... Ne5 21. h4 21... g5 22. h5 22... a5 23. Bc2 *
 
 [Event "Calculate with Purpose: tactic-117"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-117"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-117"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1403,7 +1403,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: g2f3. The verified line begins Qxf3 Nxg7+ Kd7 Be3 Rh7 Bd2. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 15... Qxf3 16. Nxg7+ 16... Kd7 17. Be3 17... Rh7 18. Bd2 18... Rxg7 19. Rxg7 19... Qe4+ 20. Be3 *
 
 [Event "Calculate with Purpose: tactic-118"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-118"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-118"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1415,7 +1415,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: e7d6. The verified line begins exd6 Bb5+ Nbd7 Bxd7+ Nxd7 Nb5. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 9... exd6 10. Bb5+ 10... Nbd7 11. Bxd7+ 11... Nxd7 12. Nb5 12... Qc6 13. Nd4 13... Qxe4+ 14. Be3 *
 
 [Event "Calculate with Purpose: tactic-119"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-119"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-119"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]
@@ -1427,7 +1427,7 @@
 { Find the move that best exploits the tactical opportunity. Answer: f7e8. The verified line begins Qe8+ Rg8 Qe6 Rg7 Nd6 Nf8. Reconstruct why the opponent cannot simply ignore the first move. The recorded line is one strong continuation; a finite engine search is not a proof that every later reply is forced. } 21. Qe8+ 21... Rg8 22. Qe6 22... Rg7 23. Nd6 23... Nf8 24. Qxh6+ 24... Kg8 25. h4 25... Be6 *
 
 [Event "Calculate with Purpose: tactic-120"]
-[Site "https://knightway8.github.io/chess12/practice.html?id=tactic-120"]
+[Site "https://1d42c4.github.io/chess12/practice.html?id=tactic-120"]
 [Date "2026.09.05"]
 [Round "-"]
 [White "Human learner"]

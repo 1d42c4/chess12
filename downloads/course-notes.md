@@ -2,7 +2,7 @@
 
 Short, reliable lines before long, impressive ones
 
-Live course: https://knightway8.github.io/chess12/
+Live course: https://1d42c4.github.io/chess12/
 
 ## 01. Calculation starts with a question
 
