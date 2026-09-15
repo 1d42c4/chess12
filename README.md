@@ -1,6 +1,6 @@
 # Calculate with Purpose
 
-**[Open the live GitHub Pages course](https://knightway8.github.io/chess12/)**
+**[Open the live GitHub Pages course](https://1d42c4.github.io/chess12/)**
 
 Short, reliable lines before long, impressive ones. Generate useful candidates, calculate the opponent’s resistance, and recognize the tactical mechanisms behind a combination.
 
@@ -28,16 +28,16 @@ This is an extensive course through a defined practical skill area, not a claim 
 
 ## Start here
 
-[Lesson directory](https://knightway8.github.io/chess12/) · [Practice lab](https://knightway8.github.io/chess12/practice.html) · [Study plan](https://knightway8.github.io/chess12/study-plan.html) · [Downloads](https://knightway8.github.io/chess12/downloads.html) · [Sources and verification](https://knightway8.github.io/chess12/sources.html)
+[Lesson directory](https://1d42c4.github.io/chess12/) · [Practice lab](https://1d42c4.github.io/chess12/practice.html) · [Study plan](https://1d42c4.github.io/chess12/study-plan.html) · [Downloads](https://1d42c4.github.io/chess12/downloads.html) · [Sources and verification](https://1d42c4.github.io/chess12/sources.html)
 
 ## The four-course collection
 
 | Repository | Course | Live site |
 | --- | --- | --- |
-| [chess11](https://github.com/knightway8/chess11) | See the Board | [Open](https://knightway8.github.io/chess11/) |
-| [chess12](https://github.com/knightway8/chess12) | Calculate with Purpose | [Open](https://knightway8.github.io/chess12/) |
-| [chess13](https://github.com/knightway8/chess13) | Make a Plan | [Open](https://knightway8.github.io/chess13/) |
-| [chess14](https://github.com/knightway8/chess14) | Finish the Game | [Open](https://knightway8.github.io/chess14/) |
+| [chess11](https://github.com/1d42c4/chess11) | See the Board | [Open](https://1d42c4.github.io/chess11/) |
+| [chess12](https://github.com/1d42c4/chess12) | Calculate with Purpose | [Open](https://1d42c4.github.io/chess12/) |
+| [chess13](https://github.com/1d42c4/chess13) | Make a Plan | [Open](https://1d42c4.github.io/chess13/) |
+| [chess14](https://github.com/1d42c4/chess14) | Finish the Game | [Open](https://1d42c4.github.io/chess14/) |
 
 ## Use offline
 
@@ -57,4 +57,4 @@ GitHub Pages serves the root of `main` with `.nojekyll`. Active branch rules req
 
 ## Credits
 
-Original course writing, interface, and generated practice positions were prepared with AI for knightway8. Cburnett SVG chess pieces by Colin M. L. Burnett are included unmodified under GPL-2.0-or-later, with [source and attribution](assets/pieces/README.md) and the [full license](assets/pieces/COPYING.txt). The bundled chess.js library is BSD-2-Clause licensed; its full notice is in [vendor/chess-LICENSE.txt](vendor/chess-LICENSE.txt). Stockfish was used for local analysis and is not redistributed here. Tablebase facts are credited to the Lichess Syzygy service.
+Original course writing, interface, and generated practice positions were prepared with AI for 1d42c4. Cburnett SVG chess pieces by Colin M. L. Burnett are included unmodified under GPL-2.0-or-later, with [source and attribution](assets/pieces/README.md) and the [full license](assets/pieces/COPYING.txt). The bundled chess.js library is BSD-2-Clause licensed; its full notice is in [vendor/chess-LICENSE.txt](vendor/chess-LICENSE.txt). Stockfish was used for local analysis and is not redistributed here. Tablebase facts are credited to the Lichess Syzygy service.
